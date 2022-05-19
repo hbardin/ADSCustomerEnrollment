@@ -43,7 +43,7 @@
                             <Expression>
                                 <Param><![CDATA["false"]]></Param>
                                 <Param><![CDATA["Begin Your Enrollment"]]></Param>
-                                <Param><![CDATA["Welcome to Canada Life Enrollment! We will guide you through the application process. This will take only a few minutes of your time. "]]></Param>
+                                <Param><![CDATA["Welcome to InsureCorp Enrollment! We will guide you through the application process. This will take only a few minutes of your time. "]]></Param>
                                 <Param><![CDATA["display"]]></Param>
                                 <Param><![CDATA["true"]]></Param>
                                 <Param><![CDATA["false"]]></Param>
